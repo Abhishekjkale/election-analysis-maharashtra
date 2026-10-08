@@ -1,0 +1,6 @@
+{
+  "name": "Maharashtra 2024 Vidhan Sabha Election Dashboard",
+  "description": "Interactive analytics dashboard and Gemini AI intelligence for the 2024 Maharashtra Vidhan Sabha Election results with complete Python Streamlit app.py export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
